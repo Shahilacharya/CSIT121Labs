@@ -1,0 +1,21 @@
+body{
+    background-image: url('https://static01.nyt.com/images/2022/02/16/dining/11korex-chocolate/merlin_200212497_081f3ab6-1907-4e1c-aee9-6027e118b9db-mediumSquareAt3X.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+}
+
+.header-image{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+h1{
+    background-color: #ffcc00;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
