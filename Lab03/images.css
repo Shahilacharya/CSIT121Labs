@@ -1,0 +1,25 @@
+body{
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+}
+
+.css-image{
+    width: 100px;
+    height: 50px;
+    background-image: url('https://saltandbaker.com/wp-content/uploads/2019/06/best-ever-german-chocolate-cake.jpg');
+    background-size: cover;
+    border: 1px solid #ccc;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    background-color: #ffcc00;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
