@@ -1,0 +1,17 @@
+body {
+    background-color:beige;
+    background-image:url("https://saltandbaker.com/wp-content/uploads/2019/06/best-ever-german-chocolate-cake.jpg"); 
+    background-size:cover;
+}
+
+h1 {
+    font-size:24px;
+    margin-bottom:10px;
+    color:black; 
+}
+
+p {
+    font-size:30px;
+    margin-bottom:10px;
+    color:black
+}
