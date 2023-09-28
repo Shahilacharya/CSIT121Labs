@@ -1,0 +1,35 @@
+body{
+    background-color: #f2f2f2; 
+    color: #333;
+    font-size: 20px;
+    font-family: Cursive;
+}
+h1{
+    color: #964b00;
+    font-family: Cursive;
+    margin: 10px 150px;
+}
+h2{
+    color: #c19a6b;
+    margin: 10px 75px;
+}
+p{
+    font-family: Cursive;
+    color: #333;
+    font-size: 15px;
+}
+li{
+    background-color: #c19a6b;
+    font-family: Cursive;
+    font-size: 15px;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.recipe-image {
+    width: 45%;
+    display: inline-block;
+    margin: 10px;
+}
