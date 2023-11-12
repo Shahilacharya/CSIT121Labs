@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, sans-serif; 
+  font-size: 20px;
+  color: #fff;
+}
+
+h1, h2 {
+  font-family: Arial, sans-serif;
+  color: #fff; 
+}
+
+
+
+#wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+
+nav {
+  float: left;
+  width: 650px;
+  padding: 10px;
+}
+
+main {
+  margin-left: 20%;
+  padding: 10px;
+}
+
+footer {
+  clear: both;
+  text-align: center; 
+}
+
+
+@media only screen and (max-width: 768px) {
+
+  #wrapper {
+    width: 100%;
+  }
+  
+  nav, main {
+    width: 100%;
+    margin: 0;
+    padding: 1rem;
+  }
+  
+  footer {
+    padding: 1rem;
+  }
+  
+}
+
+
+.nav-list {
+  list-style: none; 
+}
+
+
+body {
+  background: url('https://img.freepik.com/free-photo/assortment-delicious-chocolate-cake_23-2148875603.jpg') no-repeat; 
+  background-size: cover;
+}
+
+h1 {
+  margin: 10px 0;
+}
+
+h2 {
+  margin: 10px 0;
+}
+
+p {
+  font-size: 1.2rem; 
+}
+
+li {
+  font-size: 1rem;
+}
